@@ -81,10 +81,10 @@
 							<shadowcolor>text_shadow</shadowcolor>
 						</control>
 						<control type="label">
-							<left>10</left>
+							<left>2</left>
 							<top>0</top>
 							<height>90</height>
-							<width>82</width>
+							<width>90</width>
 							<align>center</align>
 							<aligny>center</aligny>
 							<font>font32_title</font>
@@ -140,10 +140,10 @@
 							<textcolor>grey</textcolor>
 						</control>
 						<control type="label">
-							<left>10</left>
+							<left>2</left>
 							<top>0</top>
 							<height>90</height>
-							<width>82</width>
+							<width>90</width>
 							<align>center</align>
 							<aligny>center</aligny>
 							<font>font32_title</font>
