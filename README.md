@@ -1,7 +1,7 @@
 # skin.estuary.leia.pkscout.mod
 
 
-## My mod of the Kodi 18 (Leia) version of Estuary.
+## My mod of the Kodi 19 (Matrix) version of Estuary.
 
 This is a very light modification that provides the following:
 
